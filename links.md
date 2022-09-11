@@ -12,7 +12,7 @@ This video playlist will help you understand the operating systems better. It us
 2. (Video) [10 Linux Terminal Commands for Beginners](https://www.youtube.com/watch?v=CpTfQ-q6MPU)<br>
 I recommend you to watch this video if you want to gain the fundamental knowledge of Linux commands in less than 14 minutes. The instructor explains it really well and easy to understand. 
 
-3. (Video) [Learning Awk Is Essential For Linux Users](https://www.youtube.com/watch?v=9YOZmI-zWok))<br>
+3. (Video) [Learning Awk Is Essential For Linux Users](https://www.youtube.com/watch?v=9YOZmI-zWok)<br>
 This video gives a clear demonstration of AWK. The explanation is really straight to the point.
 
 4. (Video) [Regular Expressions - Enough to be Dangerous](https://www.youtube.com/watch?v=bgBWp9EIlMM)<br>
