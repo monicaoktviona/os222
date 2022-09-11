@@ -1,8 +1,6 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
-<br><br>
 [HOME](https://monicaoktviona.github.io/os222/) --- [LINKS](https://monicaoktviona.github.io/os222/LINKS/) --- [LOG](https://monicaoktviona.github.io/os222/TXT/mylog.txt) --- [GITHUB](https://github.com/monicaoktviona/os222)
 <hr>
 
@@ -20,8 +18,9 @@ This video gives a clear demonstration of AWK. The explanation is really straigh
 4. (Video) [Regular Expressions - Enough to be Dangerous](https://www.youtube.com/watch?v=bgBWp9EIlMM)<br>
 This video gives you a clear and concise explanation about regex. It also provides a visualization that is easy to comprehend.
 
-<br>
-<hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
-<hr>
-<br>
+5. (Article) [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)<br>
+This article helps me to understand the basic vi commands. It is really straight to the point and the commands are grouped by their function with a brief explanation.
+
+6. (Video) [Vim Basics in 8 Minutes](https://www.youtube.com/watch?v=ggSyF1SVFr4)<br>
+The tutorial given by the instructor helped me understand the vim commands after reading the documentation. This video will be very helpful for those who prefer learning things from tutorial. 
+
