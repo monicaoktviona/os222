@@ -7,12 +7,10 @@ permalink: LINKS/
 # LINKS
 
 ## Week 00
-<hr>
 1. (Video) [Operating Systems: Visual Metaphor at Udacity](https://www.youtube.com/watch?v=SkKqlb0Rvwo&list=PLqoiDr4YpRdm_nzFhCDuj74P8ul5z7SdO&index=2)<br>
 This video playlist will help you understand the operating systems better. It used a toy shop as a visual metaphor of operating systems which will make the learning process felt so much easier.
 
 ## Week 01
-<hr>
 1. (Video) [10 Linux Terminal Commands for Beginners](https://www.youtube.com/watch?v=CpTfQ-q6MPU)<br>
 I recommend you to watch this video if you want to gain the fundamental knowledge of Linux commands in less than 14 minutes. The instructor explains it really well and easy to understand. 
 
@@ -29,7 +27,6 @@ This article helps me to understand the basic vi commands. It is really straight
 The tutorial given by the instructor helped me understand the vim commands after reading the documentation. This video will be very helpful for those who prefer learning things from tutorial. 
 
 ## Week 02
-<hr>
 1. (Video) [Cyber Security In 7 Minutes | What Is Cyber Security: How It Works? | Cyber Security | Simplilearn](https://www.youtube.com/watch?v=inWWhr5tnEA&list=LL&index=3&t=3s)<br>
 This video explains cyber security and cyber attacks in a very simple way. It is easier to understand about cyber attacks through this video because it gives you an illustration about how things happened.
 
