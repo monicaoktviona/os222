@@ -32,3 +32,9 @@ This video explains cyber security and cyber attacks in a very simple way. It is
 
 2. (Video) [Asymmetric Encryption - Simply explained](https://www.youtube.com/watch?v=AQDCe585Lnc&list=LL&index=1&t=198s)<br>
 This video helps me understand asymmetric encryption (and symmetric encryption) better. This video explains how asymmetric encryption works with a very easy-to-understand example. 
+
+## Week 03
+1. (Video) [The Linux File System...for humans](https://www.youtube.com/watch?v=UFIoRLqhFpo)<br>
+This video gives an explanation about the file system in linux. The video is very clear and concise.
+2. (Article) [Difference between Internal and External fragmentation](https://www.geeksforgeeks.org/difference-between-internal-and-external-fragmentation/#:~:text=Internal%20fragmentation%20occurs%20when%20memory,on%20the%20size%20of%20processes.)<br>
+The article helps me understand the difference between internal and external fragmentation. It also displays diagrams as a visualization of the explanation.
