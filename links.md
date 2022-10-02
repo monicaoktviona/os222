@@ -38,3 +38,9 @@ This video helps me understand asymmetric encryption (and symmetric encryption) 
 This video gives an explanation about the file system in linux. The video is very clear and concise.
 2. (Article) [Difference between Internal and External fragmentation](https://www.geeksforgeeks.org/difference-between-internal-and-external-fragmentation/#:~:text=Internal%20fragmentation%20occurs%20when%20memory,on%20the%20size%20of%20processes.)<br>
 The article helps me understand the difference between internal and external fragmentation. It also displays diagrams as a visualization of the explanation.
+
+## Week 04
+1. (Article) [C Format Specifier](https://www.javatpoint.com/c-format-specifier)<br>
+The article displays the most commonly used format specifiers in C along with the descriptions. It's really straightforward and easy to understand.
+2. (Video) [Introduction to Pointers in C](https://www.youtube.com/watch?v=f2i0CnUOniA) <br>
+This video explains about pointers in C. It's a very short video but still can help you understand it well.
