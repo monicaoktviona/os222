@@ -44,3 +44,9 @@ The article helps me understand the difference between internal and external fra
 The article displays the most commonly used format specifiers in C along with the descriptions. It's really straightforward and easy to understand.
 2. (Video) [Introduction to Pointers in C](https://www.youtube.com/watch?v=f2i0CnUOniA) <br>
 This video explains about pointers in C. It's a very short video but still can help you understand it well.
+
+## Week 05
+1. (Video) [Operating Systems Chapter 9 - Virtual Memory](https://www.youtube.com/watch?v=KTx9RNfyFO8) <br>
+This video is Operating System Lecture from Taif University. It explains Silberschatz slides about Virtual Memory. Very recommended if you prefer learning from a video than just reading the slides.
+2. (Video) [Endianness in C | Big Endian vs Little Endian] (https://www.youtube.com/watch?v=a9lVoThjV7o) <br>
+This video explains the difference between Big Endian and Little Endian very clearly. It also gives you the visualization so it's easier to comprehend.
