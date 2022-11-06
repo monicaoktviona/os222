@@ -50,3 +50,9 @@ This video explains about pointers in C. It's a very short video but still can h
 This video is Operating System Lecture from Taif University. It explains Silberschatz slides about Virtual Memory. Very recommended if you prefer learning from a video than just reading the slides.
 2. (Video) [Endianness in C | Big Endian vs Little Endian] (https://www.youtube.com/watch?v=a9lVoThjV7o) <br>
 This video explains the difference between Big Endian and Little Endian very clearly. It also gives you the visualization so it's easier to comprehend.
+
+## Week 06
+1. (Video) [Difference Between Process and Thread - Georgia Tech - Advanced Operating Systems](https://www.youtube.com/watch?v=O3EyzlZxx3g) <br>
+This video helps me understand the difference between process and thread in less than 4 minutes. The instructor uses analogy so it's easier to understand.
+2. (Playlist) [Processes | Chapter-3 | Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgKl0MbI6kbI5ffNt7BF8Fn) <br>
+This playlist will help you understand this week's material better. The explanation is really clear and simple. 
