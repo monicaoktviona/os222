@@ -62,3 +62,10 @@ This playlist will help you understand this week's material better. The explanat
 This short video explains about deadlock in a very simple way. I understand the conditions for deadlock to occur better after watching this video.
 2. (Playlist) [Process Synchronization | Chapter-6 | Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) <br>
 This playlist will help you understand process synchronization better. The explanation is really clear and simple.
+
+## Week 08
+1. (Book) [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.2/) <br>
+This book gives you a step-by-step tutorial to build linux from scratch. It is straight to the point but still explain each step clearly.
+2. (Playlist) [How to build Linux From Scratch 11.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+It is basically a video version of linux from scratch website. If you prefer video-based tutorial, you may like this one! :)
+
